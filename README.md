@@ -1,6 +1,4 @@
-# wasphackathon-12-11-26
-team : PRINT F exploit
-problem statement 4
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
